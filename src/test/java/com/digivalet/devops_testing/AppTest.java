@@ -18,6 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("\n\n\n\n\n***********************************\n\nHello Mahendra!\n\nYour first test case is executed!\n\n***********************************\n\n\n\n");
     }
 
     /**
